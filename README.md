@@ -1,5 +1,5 @@
 # Custom scripts for ploidy, mode of reproduction, environmental, and genomic SNP analyses
-Custom scripts for ploidy, mode of reproduction, environmental, and genomic SNP (RAD-Seq) analyses in taxonomically complex groups (TCGs), exemplified on the Ranunculus auricomus species complex.
+Custom scripts for ploidy, mode of reproduction, environmental, and genomic SNP (RAD-Seq) analyses in taxonomically complex groups (TCGs), exemplified on the Ranunculus auricomus plant species complex.
 
 The code repository includes the R script used in Karbstein et al. 2021 (https://onlinelibrary.wiley.com/doi/10.1111/mec.15919). The R script can perform (i) data import of flow cytometric (FC) and flow cytometric seed screening (FCSS) data, (ii) descriptive statistics, (iii) mode of reproduction per ploidy level analyses, (iv) multivariate modeling (path analysis) comprising sexuality (sexual to asexual seeds per population), genome-wide heterozygosity, ploidy level, mode of reproduction, habitat type, and flower features, (v) modeling and mapping of sexuality and genetic diversity across Europe, (vi) area calculations per reproduction mode, and (vii) genetic structure analyses (sNMF).
 
